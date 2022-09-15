@@ -1,0 +1,109 @@
+body{
+  background-image: url(background.jpg);
+  background-size: 100%;
+  color: black;
+}
+
+.contenitore{
+  margin:auto;
+  background: rgba(0, 0, 0, 0.5);
+  width: 900px;
+  border-radius: 13px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 1px;
+  padding-bottom: 100px;
+  color: white;
+
+}
+
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+  width: 20%;
+
+}
+
+.sottotesto{
+  text-align: center;
+  color: rgb(0, 221, 0);
+  font-family: Times sans-serif;
+  margin-bottom: 1px;
+  margin-top: 1px;
+
+}
+
+
+  .border{
+    background-color: limegreen;
+    text-align: center;
+    padding: 8px;
+
+  }
+
+
+  .button{
+    font-size: 10px;
+
+  }
+
+  .Monopattino-Gino{
+    display: inline-block;
+    font-size: 20px;
+    font-family: Times sans-serif;
+    margin-bottom: 0.5px;
+
+  }
+
+  .Monopattino-Mike{
+    display: inline-block;
+    font-size: 20px;
+    font-family: Times sans-serif;
+    margin-bottom: 0.5px;
+
+  }
+
+  .Monopattino-Fede154{
+    display: inline-block;
+    font-size: 20px;
+    font-family: Times sans-serif;
+    margin-bottom: 0.5px;
+
+  }
+
+
+  div p{
+    margin: auto;
+    font-size: 15px;
+    font-family: Times sans-serif;
+  }
+
+
+
+  .OrangeLine{
+    color: rgb(245, 180, 63);
+    width: 30%;
+    margin-left: 0;
+    border-radius: 5px;
+    border: 10px solid;
+  }
+
+
+  .GreenLine{
+    color: rgb(30, 195, 30);
+    width: 50%;
+    margin-left: 0;
+    border-radius: 5px;
+    border: 10px solid;
+  }
+
+
+  .RedLine{
+    color: rgb(190, 65, 65);
+    width: 12%;
+    margin-left: 0;
+    border-radius: 5px;
+    border: 10px solid;
+  }
